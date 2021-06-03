@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Refutation of a false and impious aspersion cast on the late Lord Cottington by the writer of the Popish currant.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28848</idno><idno type="EEBO-CITATION">18696967</idno>
+  <idno type="VID">205373</idno>
+  <idno type="EEBO-PROQUEST">2248552667</idno>
+  
+            <idno type="STC">Wing R752</idno>
+            <idno type="OCLC">18696967</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205373)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1660:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Refutation of a false and impious aspersion cast on the late Lord Cottington by the writer of the Popish currant.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cottington, Francis Cottington, --  Baron, 1578?-1652.</term>
+               <term type="topical_term">Anti-Catholicism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205373:1"/>
+            <head>A REFUTATION Of a false and Impious Aspersion cast on the late Lord <hi>COTTINGTON,</hi>
+            </head>
+            <byline>by the Writer of the <hi>Popish Currant.</hi>
+            </byline>
+            <p>THe Petty Scribler of Popish lyes in his Sacrilegious Libell, call'd, <hi>The Popish Currant,</hi> set forth on <hi>Friday</hi> the 18th. of <hi>Feb.</hi> having cast a false and Impious Aspersion on a Person of great worth and honour, many years since deceas d whose most signal services to his K. and Country during the course of his life, deserv'd a most grateful Remembrance, it has been thought fit to disabuse the Pub<g ref="char:EOLhyphen"/>lick by a plain Refutation of what is falsly charg'd upon him by this Impostor.</p>
+            <p>He says in the first Page of that Popish Currant, that it s a certain truth which he is ready to Justifie to the Teeth of any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ory Cavillers, (for so he calls all those that question the truth of his malicious Impostures) <hi>That the Lord</hi> Cottington <hi>dying at</hi> Valladolid <hi>in</hi> Spain, <hi>by his Will ordered his Corps to be for the then present buryed in the Jesuits Colledge there, but on con<g ref="char:EOLhyphen"/>dition that it should be transmitted into</hi> England <hi>as soon as Popery should be there setled.</hi>
+            </p>
+            <p>To satisfie the publick of what is truth, in this Assertion they are here<g ref="char:EOLhyphen"/>by made acquainted that the Lord <hi>Cottington's</hi> Will which he made at <hi>Valladolid,</hi> was brought over into <hi>England</hi> shortly after his Decease by some of his Servants, and was prov'd and entred in the Prerogative Office in the month of <hi>August</hi> 1666. where any man may see it that please; in which Will the whole clause relating to the disposall of his body, is word for word, as follows.</p>
+            <p>
+               <hi>I Order when it pleaseth the Almighty God to take me out of this present world, that my body be buried and deposited in the English Colledge Church of this City, in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chappell and place where my Executors please to dispose it, till it please the Almighty God to settle the differences of the Kingdom of</hi> England, <hi>that my Nephews and Executors in due time may have it remov'd thither.</hi>
+            </p>
+            <p>And this is the whole truth and nothing but the truth of the Lord <hi>Cottingtons Last,</hi> and only Will and Testament at <hi>Valadolid</hi> for the disposal of hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> body, as is ready to be justified to the Teeth of any impudent Im<g ref="char:EOLhyphen"/>postor that dares question it.</p>
+            <p>As to the Spanish Inscription which he says was on the Lord <hi>Cottingtons</hi> Tomb at <hi>Valladolid,</hi> (though in truth he had no Tomb there) on which the Libellour seems to have grounded his Presumption for its being that Lords Will to have his Corps transmitted into <hi>England</hi> as soon as Popery should be there setled: I say in case there were such an Inscription on a Wall there near the place where his Corps was buried, and that this were a true Copy of it (concerning the truth of which I shall not trouble my self to enquire) it plainly appears by the many Errors commited in it, that it was written by rote and without any due attention to the truth of what is
+<pb facs="tcp:205373:2"/>said &amp; the Libellour who is free enough to question the truth of the Titles and Offices there given him, had he been ingenious might have suspected as well the truth of what is there said to be his Will concerning the dis<g ref="char:EOLhyphen"/>posall of his body, and might have search'd the proper Office, where his true Will was to be found.</p>
+            <p>Any man of a Candid disposition having seen the careless wording of that Spanish Inscription, would have given at least this Candid Interpre<g ref="char:EOLhyphen"/>tation of it, that the Fathers there looking upon it as an Honour to their Chappel to have a Person of his quality there inter'd, thought fit whilst his Corps continued in it to have his Memory preserv'd by some Inscription, and not minding any accurasy in setting down his Honourary Titles, and probably not having seen his Will, but hearing something confusedly of it, or at least not minding the Exact words of it for the Future disposall of his body when they read i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they set up this general Character of him, which being in a Forraign Countrey, and his Corps being not to be con<g ref="char:EOLhyphen"/>tinued there, they thought needed not any great Exactness.</p>
+            <p>In the mean time it seems somewhat strange that this Popish Libellour who thinks it unreasonable that a true Protestant as himself should give the least credit either to the living Oaths or dying Protestations, if any Jesuit or Papist should build so much on a Triviall Inscription written by some such on a Wall at Randome as to think it a most convincing Argu<g ref="char:EOLhyphen"/>ment (as he calls it) of the certainty of the Plot.</p>
+            <p>Another thing which weig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s much with this Popish writer is that this body was not brought over till somewhat near the time of the discovery of the Plot. <hi>To this its Answer'd.</hi>
+            </p>
+            <p>First, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a thing well known to hundreds of Gentlemen and Persons of Honour who have been acquainted with that Family, that they have con<g ref="char:EOLhyphen"/>stantly a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all times declar'd since his Majesties Restauration that it was the Will of the Lord <hi>Cottington</hi> that his body should be brought over upon their being invested in his Estate, and that the thing has been often design'd though still delay'd till the Year 78.</p>
+            <p>Secondly, If a Reason be desired for the delay, you may consider of what follows.</p>
+            <list>
+               <item>1. After his Majesties Restauration, and that Family's being invested in the Lord <hi>Cottington's</hi> Estate there were considerable Summs of Moneys to be raised to pay the said Lords Debts, <hi>which</hi> could not conveniently be done under some years time.</item>
+               <item>2. There happen'd after that an unhappy difference betwixt the Father Sr. <hi>Francis Cottington</hi> and his Eldest Son, which lasted some years.</item>
+               <item>3. That being ended the Son was willing to settle himself in the world by match before he would resolve of sending for his Uncle's body, and being at length happily setl'd in the State of Marriage, he did not Enjoy it long e're he dyed.</item>
+               <item>4. As for the present Gentleman who is the Soul surviving Heir of the Family, its well known under what unfortunate Circumstances he has layen for these many years past, and is still, notwithstanding which he at length considering himself the last of his Family, and being without any possibility of Issue (unless his Sacred Majesty comiserating his condition shall at some time please to grant him a Commission of Review for the re<g ref="char:EOLhyphen"/>hearing of his cause, a gracious favour which many able Divines and Civi<g ref="char:EOLhyphen"/>lians conceive very reasonable to be granted) and being therefore desirous to see his Uncles Will fulfill'd before his death; he came to a resolve to
+<pb facs="tcp:205373:2"/>pay this Pious Devoir to his deceased Anchester, and lent for his body accordingly, which being done so many Months before the discovery of the Plot, I wonder whence this Libellour concludes it to have any Relation to it, or what imaginable Reason he conceives this Gentleman should have for Anticipating his Uncles Will, if it had been as he from the Spa<g ref="char:EOLhyphen"/>nish Inscription concludes it, for can any man imagine if such an Execrable design as is sworn by the Kings Evidence had been Executed, but there would have followed great Tumults in the Nation, and is it not Obvious to all men that no time could be proper for bringing over a body in such an account but when all Tumults were appeas'd.</item>
+            </list>
+            <p>Again I would ask any rationall man whether he thinks it not naturally probable that any Noble man of <hi>England,</hi> Papist or Protestant dying beyond the Seas, would order in his Will that his body should be brought over and inter'd in <hi>England</hi> whether the Catholick Religion were establish't here or not, and whether it be not a thing generally done.</p>
+            <p>As to the Libellous Reflections on the Earl of <hi>Danby</hi> for sending his Warrant to the Commissioners of the Custom-house for permitting the <hi>Lord Cottingtons</hi> bones to be landed without paying duty &amp; so <hi>defrauding the</hi> King of his Rights; I only Answer that I do not doubt but his Majesty is well satisfied how tender this Libellour is of his Rights: in the m<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> time if his Majesty please to remit the duty payable for landing a Corps, espe<g ref="char:EOLhyphen"/>cially this being the Relict of a person who faithfully serv'd him, lost his Estate, and dyed in Exile for him; I hope no good Subject has cause to complain.</p>
+            <p>When this Libellour says that the Lord <hi>Cottington</hi> was question'd by Parliament, I know not what Parliament he means, unless it be the infernal Rump, (an honest Parliament I no way doubt to the Humour of this sedi<g ref="char:EOLhyphen"/>tious Scribler) who gave this Lords Estate to <hi>Bradshaw</hi> for his Sacrilegious presumption in passing that Execrable Sentence of death on his dread Soveraign.</p>
+            <p>If it be true what this Popish writer sayes that the Lord <hi>Cottington</hi> dyed of the Roman Faith, its no great wonder, if when having before his Eyes the perfidius dealing of the u<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aturall Subjects of <hi>England</hi> with their Soveraign, and finding more In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egrity amongst the <hi>Spaniards</hi> with whom he had long Converst, he became at length of their Religion: though the Libellour is impiously Injurious to him in this that he calls him a noto<g ref="char:EOLhyphen"/>rious Masqueraded Protestant here, for its well known that he continued a Protestant for many year after his Exile in <hi>Spain,</hi> and did not become Catholick <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> some short time before his death, after he had seen a Consumation of Malice in the Kings Enemies, and the true Protestant Church here u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erly subver ed.</p>
+            <p>To conclude, I cannot but take notice of this Fellows vilifying contempt of Honourary <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itles, confer'd on Persons of desert by their Soveraign; he calling the Lord <hi>Cottingtons</hi> Titles in the Spanish Inscription, <hi>Rhadomontado</hi> Titles and Offices that perhaps never belong'd to him: I must confess there are many Errours in that Inscription, but I must tell this impudent Scribler (he must pardon my Expressions) if he spent some time in reading the worthy Historians of our Age who record the memorable things of great men, as he spends a good part of his life in reading glossing and commenting upon the Old Golden <hi>Legend,</hi> (a Book look'd upon by the Papists them<g ref="char:EOLhyphen"/>selves
+<pb facs="tcp:205373:3"/>as three Forms below the Story of <hi>Tom Thumb</hi>) he would find that the Lord <hi>Cottington</hi> was Baron <hi>Cottington</hi> of <hi>Hanworth,</hi> and that in his late Majesties Reign he was Chance<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lour of his Majesties Exchequer, master of his Court of Wards, Constable of the Tower, Lord High Treasurer of <hi>England,</hi> and one of his Majesties most honourable Privy Councill, that he was twice Ambassador in <hi>Spain,</hi> once for the said King, and a second time for his Sacred Majesty now Reigning; and he might read what worthy services he did as well there as at home for their Majesties and the Nation, but its beneath this writer to take notice of any mans deserts but his own, well then let him keep to his dear Legend, and by the continuance of his pretty Fables, let his writings deserve the continuance of the Title lately given them of harmless innocent Papers, as he shall have my Vote for being as great an Innocent as any in the Nation, and so let him accomplish the third Vollume forsooth, of his Incomparable History. And if in the plain way of a C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ristian he can at any time make a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y substan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iall discovery of a Plot contriv'd either by the Papists or any else a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ainst our Sacred King and Government, let him be accurst who does not afford him his helping hand in it, and embrace him as a Brother for so doing; but for him to be so very positive in asserting an impious untruth reflecting on the dead whose Ashes oug<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be sacred, and vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ifying persons of Honour, which afterwards must shame <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly be recanted, it shews nothing of a Christian, or of a man of any moral honesty, if it was only a heedless mistake in him and not a Volun<g ref="char:EOLhyphen"/>tary Imposture, I hope when he has seen this Paper <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will own it to the world a so; when the Kings Evidence has read this I doubt he will lose their thanks for his Corroborative, the main ingredient of a good Corro<g ref="char:EOLhyphen"/>borative, honest truth, being here wanting had he only with Candour Related matter of Fact concerning the Spanish Inscription, and left it to the Judgment of the world without his parergon of malicious insinuations and other u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>christianly Reflections he should have found nothing but matter of Fact Candidly re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urn'd in Answer, but now, if he dislikes the name of Libel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our and the like, I appeal to the world whether he has not given these names to himself by what he has written, and <hi>I</hi> protest from my heart <hi>I</hi> hate to call any man out of his Name.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
